@@ -4,10 +4,10 @@ require 'pry'
 
 def snake_it_up(string)
   if string[0] == "s"
-    10.times "s" + string
+    "ssssssssss" + string
   else
     string
   end
 end
 
-snake_it_up("mamba")
+snake_it_up("samba")
