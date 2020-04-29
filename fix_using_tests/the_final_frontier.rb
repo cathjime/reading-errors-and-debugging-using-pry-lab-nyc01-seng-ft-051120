@@ -12,7 +12,7 @@ def state_log(star_date)
 end
 
 state_log()
-binding.pry 
+
 
 def engage
   puts state_log(date)
